@@ -36,4 +36,4 @@ While the data is conclusive, it doesn't show the natural landscapes and wildern
 
 ### Conclusion
 
-It's recommended that you visit Zurich, if you are inclined towards the German language, or Geneve, if you prefer the French language. Zurich is also the place where Einstein got his PhD, so you will see a lot of cultural events and venues.
+It's recommended that you visit Zurich, if you are inclined towards the German language, or Geneve, if you prefer the French language. Zurich is also the place where Einstein got his PhD. In any case, a person will be able to see a lot of cultural events and venues.
