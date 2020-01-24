@@ -1,17 +1,17 @@
 # Capstone Project - Data Science
 ## Number of venues in cities in Switzerland and number of venues per population
 
-###Introduction
+### Introduction
 
 If you want to visit Switzerland and go to as many places as you can while you are there, this will help you to see which cities have the most venues, and which cities have the most venues per person.
 
 This project analyses the total number of venues in some of Switzerland's cities, and the number of venues compared to the population of their respective cities.
 
-###Data
+### Data
 
 First, the needed libraries and modules are imported. Then, the data is downloaded from GitHub, where it has been uploaded from another source, namely https://simplemaps.com/data/ch-cities. The original tables have the columns city, lat, lng, country, iso2, admin, capital, population, population_proper.
 
-###Methodology
+### Methodology
 
 Some of the columns are renamed and dropped for easier data manipulation. The geocoders module is tested, and the cities of Switzerlands are mapped after that.
 
@@ -26,11 +26,11 @@ The smaller numbers are better here, and a pie chart and a bar chart are created
 Other analyes are also done, like the frequency of each venue in a city, and the most popular categories of venues for each city are also there. Based on these recommendations, people can get more ready to visit Switzerland.
 
 
-###Results
+### Results
 
 It has been discovered which cities have the most venues, and which cities have the most venues per population. This is important, if you want to go to some quiet place where there are no distractions, noise and pollution.
 
-###Discussion
+### Discussion
 
 While the data is conclusive, it doesn't show the natural landscapes and wilderness of Switzerland. Trying less popular cities, according to these rankings, can be a surprise too. But if a person wants to play safe, then these charts are a great guide for them.
 
